@@ -1,0 +1,1 @@
+cout << n1 << "   and   " << n2<<endl ;
